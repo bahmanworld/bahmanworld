@@ -1,8 +1,8 @@
 <h3 align="center"> Hi there 👋 </h3>
 
-<div align="center" style="margin-bottom: 20px;">
+<h5 align="center">
     <img src="https://komarev.com/ghpvc/?username=bahmanworld">
-</div>
+</h5>
 
 ![banner](https://github.com/bahmanworld/bahmanworld/blob/main/banner.png)
 
