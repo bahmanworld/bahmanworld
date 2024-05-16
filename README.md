@@ -1,6 +1,6 @@
 <h3 align="center"> Hi there 👋 </h3>
 
-<div align="center">
+<div align="center" style="margin-bottom: 20px;">
     <img src="https://komarev.com/ghpvc/?username=bahmanworld">
 </div>
 
