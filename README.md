@@ -17,7 +17,7 @@
 <a href="https://stackoverflow.com/users/3062856/bahman-world" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="bahman-world" height="30" width="40" /></a>
 <a href="https://fb.com/bahman.world" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bahman.world" height="30" width="40" /></a>
 <a href="https://instagram.com/bahman.world" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bahman.world" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/bahmanworld" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bahmanworld" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@bahmanworld" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bahmanworld" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
