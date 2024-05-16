@@ -3,7 +3,7 @@
 
 
 <p align="center" width="100%">
-    <img src="![view_counter](https://komarev.com/ghpvc/?username=bahmanworld)">
+    <img src="https://komarev.com/ghpvc/?username=bahmanworld">
 </p>
 
 
