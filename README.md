@@ -1,21 +1,32 @@
 <h1 align="center">Hi 👋, I'm Bahman World</h1>
-<h3 align="center">A passionate frontend developer from USA</h3>
+<h3 align="center">A Full-Stack Developer From USA</h3>
 
 <div align="center" >
     <img src="https://github.com/bahmanworld/bahmanworld/blob/main/banner.png">
 </div>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bahmanworld&label=Profile%20views&color=0e75b6&style=flat" alt="bahmanworld" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bahmanworld" alt="bahmanworld" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/bahmanworld" target="blank"><img src="https://img.shields.io/twitter/follow/bahmanworld?logo=twitter&style=for-the-badge" alt="bahmanworld" /></a> </p>
+
+- 🔭 I’m currently working on [dibapress](https://github.com/dahatu/dibapress)
+
+- 🌱 I’m currently learning **SwiftUI**
+
+- 💬 Ask me about **react, react native and electron**
+
+- 📫 How to reach me **bahman.world@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/bahman.world" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bahman.world" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bahmandamia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bahmandamia" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/bahman.world" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="bahman.world" height="30" width="40" /></a>
-<a href="https://fb.com/bahmandiba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bahmandiba" height="30" width="40" /></a>
+<a href="https://twitter.com/bahmanworld" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bahmanworld" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bahman-damia-8045b4113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bahman-damia-8045b4113" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/bahman-world" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="bahman-world" height="30" width="40" /></a>
+<a href="https://fb.com/bahman.world" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bahman.world" height="30" width="40" /></a>
+<a href="https://instagram.com/bahman.world" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bahman.world" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/bahmanworld" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bahmanworld" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,4 +40,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bahmanworld&show_icons=true&locale=en" alt="bahmanworld" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bahmanworld&" alt="bahmanworld" /></p>
-
