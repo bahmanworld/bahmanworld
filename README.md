@@ -1,4 +1,4 @@
-<div align="center"> ### Hi there 👋 </div>
+<h2 align="center"> Hi there 👋 </h2>
 
 ![banner](https://github.com/bahmanworld/bahmanworld/blob/main/banner.png)
 
