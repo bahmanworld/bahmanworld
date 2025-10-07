@@ -1,3 +1,3 @@
-<h3 align="center">Hi 👋, I'm Bahman World</h1>
-<h4 align="center">A Full-Stack Developer, Mostly Front-end</h3>
-<h6 align="center">Cause i like designing UIs</h5>
+<h3>Hi 👋, I'm Bahman World</h1>
+<h4>A Full-Stack Developer, Mostly Front-end</h3>
+<h6>Cause i like designing UIs</h5>
